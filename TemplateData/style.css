@@ -14,11 +14,11 @@ body {
     margin: 0;
 }
 #unity-container {
-    width: 100%;
+    width: 80%;
     height: 100%;
 }
 #unity-canvas {
-    width: 100%;
+    width: 80%;
     height: 100%;
     background: #231F20;
 }
